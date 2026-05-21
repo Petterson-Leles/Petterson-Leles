@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Petterson Leles
 
-- 🔭 Hoje sou estudante de Engenahria de Software e Desenvolvimento de sistemas
+- 🔭 Atualmente sou estudante de Engenahria de Software e Desenvolvimento de sistemas.
 - 🌱 Estudando JavaScript e Python e Node.js
 - 📫 Contate-me no email: devpetterson.leles@gmail.com
 - 😄 Pronouns: ele/dele
