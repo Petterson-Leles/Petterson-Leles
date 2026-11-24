@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Petterson Leles 👋</h1>
-<p align="center"><b>Suporte de TI · Estudante de back-end · Belo Horizonte, MG</b></p>
+<p align="center"><b>Assistente de TI · Estudante de back-end · Contagem / BH</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pettersonleles" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -9,9 +9,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🛠️ Trabalho com **Suporte de TI**: atendimento a usuários, manutenção de máquinas, rede, impressoras e automação de rotinas do servidor
+- 🛠️ **Assistente de TI na Projemar Telecom**: Windows Server, Active Directory, redes, acesso remoto e automações em PowerShell
 - 🌱 Estou **migrando para o desenvolvimento back-end**, estudando Java, Python e Node.js
-- 🎓 Curso técnico na **META Escola Técnica** · Engenharia de Software (trancada, pretendo retomar)
+- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** (META Escola Técnica) · **Engenharia de Software** (Estácio)
 - 🤖 Uso **IA como parceira de desenvolvimento** para aprender mais rápido e tirar ideias do papel
 - ☕ Movido a café, energético e lofi hip-hop
 
